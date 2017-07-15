@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Aratyper
+_Comment=Aratyper application
+Categories=GNOME;Utility;
+Exec=aratyper
+Icon=aratyper
+Terminal=false
+Type=Application
